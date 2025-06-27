@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git -C /Users/wei/Projects/claude-chat-exporter add .)"
-    ],
-    "deny": []
-  }
-}
