@@ -3,7 +3,8 @@
     "allow": [
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "WebFetch(domain:greasyfork.org)"
+      "WebFetch(domain:greasyfork.org)",
+      "Bash(git push:*)"
     ],
     "deny": []
   }
